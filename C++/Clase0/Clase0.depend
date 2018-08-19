@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477341786 source:/home/netbook/Escritorio/Clase0/main.cpp
+	<iostream>
+
+1477841716 source:c:\users\usuario\documents\estructura de datos\c++\clase0\main.cpp
+	<iostream>
+	"Persona.h"
+
+1477346090 source:c:\users\usuario\documents\estructura de datos\c++\clase0\mascota.cpp
+	"Mascota.h"
+
+1477345418 c:\users\usuario\documents\estructura de datos\c++\clase0\mascota.h
+	<iostream>
+
+1477346544 source:c:\users\usuario\documents\estructura de datos\c++\clase0\persona.cpp
+	"Persona.h"
+
+1477346490 c:\users\usuario\documents\estructura de datos\c++\clase0\persona.h
+	<iostream>
+	"Mascota.h"
+

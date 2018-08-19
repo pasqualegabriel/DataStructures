@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1478346765 source:/home/alumno/Escritorio/C++/lista/main.cpp
+	<iostream>
+	"usuarioLista.h"
+
+1478343878 source:/home/alumno/Escritorio/C++/lista/lista.cpp
+	"lista.h"
+
+1478342318 /home/alumno/Escritorio/C++/lista/lista.h
+	<iostream>
+
+1478346597 source:/home/alumno/Escritorio/C++/lista/usuarioLista.cpp
+	"usuarioLista.h"
+
+1478346039 /home/alumno/Escritorio/C++/lista/usuarioLista.h
+	<iostream>
+	"lista.h"
+
+1478571532 source:c:\users\usuario\documents\estructura de datos\c++\lista\lista.cpp
+	"lista.h"
+
+1478561131 c:\users\usuario\documents\estructura de datos\c++\lista\lista.h
+	<iostream>
+
+1478562865 source:c:\users\usuario\documents\estructura de datos\c++\lista\main.cpp
+	<iostream>
+	"usuarioLista.h"
+
+1478346038 c:\users\usuario\documents\estructura de datos\c++\lista\usuariolista.h
+	<iostream>
+	"lista.h"
+
+1478346596 source:c:\users\usuario\documents\estructura de datos\c++\lista\usuariolista.cpp
+	"usuarioLista.h"
+

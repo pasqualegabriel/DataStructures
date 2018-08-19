@@ -1,0 +1,22 @@
+
+tpi-doc-ed@listas.unq.edu.ar
+
+
+
+[MAP CON BST] - Pasquale Gabriel - C1
+
+
+Adjunto el Map con BST
+
+Pasquale Gabriel - C1
+
+
+
+
+[ENTREGA OPCIONAL] - Pasquale Gabriel - C1
+
+Adjunto el hs con los ejercicios:
+elMaximoMenorA :: Ord a => a -> Tree a -> a
+elMinimoMayorA :: Ord a => a -> Tree a -> a
+
+Pasquale Gabriel - C1

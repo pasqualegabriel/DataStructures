@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477797620 source:c:\users\usuario\documents\estructura de datos\c++\pokemon\pokemon\main.cpp
+	<iostream>
+	"Pokemon.h"
+
+1477795915 c:\users\usuario\documents\estructura de datos\c++\pokemon\pokemon\pokemon.h
+	<iostream>
+
+1477797604 source:c:\users\usuario\documents\estructura de datos\c++\pokemon\pokemon\pokemon.cpp
+	"Pokemon.h"
+
+1477797719 source:c:\users\usuario\documents\estructura de datos\c++\pokemon\main.cpp
+	<iostream>
+	"Pokemon.h"
+
+1477795915 c:\users\usuario\documents\estructura de datos\c++\pokemon\pokemon.h
+	<iostream>
+
+1477797604 source:c:\users\usuario\documents\estructura de datos\c++\pokemon\pokemon.cpp
+	"Pokemon.h"
+

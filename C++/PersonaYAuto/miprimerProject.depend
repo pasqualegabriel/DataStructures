@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1477764331 source:c:\users\publico\desktop\miprimerproject\main.cpp
+	<iostream>
+	"persona.h"
+	"auto.h"
+
+1477763513 c:\users\publico\desktop\miprimerproject\persona.h
+	<iostream>
+
+1477763537 source:c:\users\publico\desktop\miprimerproject\persona.cpp
+	"persona.h"
+
+1477764359 source:c:\users\publico\desktop\miprimerproject\auto.cpp
+	"persona.h"
+	"auto.h"
+
+1477764354 c:\users\publico\desktop\miprimerproject\auto.h
+	<iostream>
+
+1477969136 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\auto.cpp
+	"persona.h"
+	"auto.h"
+
+1477794172 c:\users\usuario\documents\estructura de datos\c++\personayauto\persona.h
+	<iostream>
+
+1477969092 c:\users\usuario\documents\estructura de datos\c++\personayauto\auto.h
+	<iostream>
+
+1477794169 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\persona.cpp
+	"persona.h"
+
+1477969169 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\main.cpp
+	<iostream>
+	"persona.h"
+	"auto.h"
+
+1478271210 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\macota.cpp
+

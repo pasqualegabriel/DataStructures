@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1477764331 source:c:\users\publico\desktop\miprimerproject\main.cpp
+	<iostream>
+	"persona.h"
+	"auto.h"
+
+1477763513 c:\users\publico\desktop\miprimerproject\persona.h
+	<iostream>
+
+1477763537 source:c:\users\publico\desktop\miprimerproject\persona.cpp
+	"persona.h"
+
+1477764359 source:c:\users\publico\desktop\miprimerproject\auto.cpp
+	"persona.h"
+	"auto.h"
+
+1477764354 c:\users\publico\desktop\miprimerproject\auto.h
+	<iostream>
+
+1478233955 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\auto.cpp
+	"persona.h"
+	"mascota.h"
+	"auto.h"
+
+1477794172 c:\users\usuario\documents\estructura de datos\c++\personayauto\persona.h
+	<iostream>
+
+1478233840 c:\users\usuario\documents\estructura de datos\c++\personayauto\auto.h
+	<iostream>
+
+1477794169 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\persona.cpp
+	"persona.h"
+
+1478233284 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\main.cpp
+	<iostream>
+	"persona.h"
+	"auto.h"
+	"mascota.h"
+
+1478233164 source:c:\users\usuario\documents\estructura de datos\c++\personayauto\mascota.cpp
+	"mascota.h"
+
+1478233188 c:\users\usuario\documents\estructura de datos\c++\personayauto\mascota.h
+	<iostream>
+
+1478564638 source:c:\users\usuario\documents\estructura de datos\c++\personaautomascota\auto.cpp
+	"persona.h"
+	"mascota.h"
+	"auto.h"
+
+1477794172 c:\users\usuario\documents\estructura de datos\c++\personaautomascota\persona.h
+	<iostream>
+
+1478564778 c:\users\usuario\documents\estructura de datos\c++\personaautomascota\mascota.h
+	<iostream>
+
+1478564971 c:\users\usuario\documents\estructura de datos\c++\personaautomascota\auto.h
+	<iostream>
+	"mascota.h"
+
+1478564922 source:c:\users\usuario\documents\estructura de datos\c++\personaautomascota\mascota.cpp
+	"mascota.h"
+
+1477794169 source:c:\users\usuario\documents\estructura de datos\c++\personaautomascota\persona.cpp
+	"persona.h"
+
+1478234152 source:c:\users\usuario\documents\estructura de datos\c++\personaautomascota\main.cpp
+	<iostream>
+	"persona.h"
+	"auto.h"
+	"mascota.h"
+

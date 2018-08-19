@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1478952593 source:/home/alumno/Escritorio/C++/listHeader/listHeader.cpp
+	"listHeader.h"
+
+1478948621 /home/alumno/Escritorio/C++/listHeader/listHeader.h
+	<iostream>
+
+1478951432 source:/home/alumno/Escritorio/C++/listHeader/main.cpp
+	<iostream>
+	"listHeader.h"
+
+1478953168 source:c:\users\usuario\desktop\listheader\listheader.cpp
+	"listHeader.h"
+
+1478948620 c:\users\usuario\desktop\listheader\listheader.h
+	<iostream>
+
+1478952960 source:c:\users\usuario\desktop\listheader\main.cpp
+	<iostream>
+	"listHeader.h"
+
+1478987335 source:c:\users\usuario\documents\estructura de datos\c++\listheader\listheader.cpp
+	"listHeader.h"
+
+1478987288 c:\users\usuario\documents\estructura de datos\c++\listheader\listheader.h
+	<iostream>
+
+1478987893 source:c:\users\usuario\documents\estructura de datos\c++\listheader\main.cpp
+	<iostream>
+	"usuarioListHeader.h"
+
+1478988583 c:\users\usuario\documents\estructura de datos\c++\listheader\usuariolistheader.h
+	<iostream>
+	"listHeader.h"
+
+1478988579 source:c:\users\usuario\documents\estructura de datos\c++\listheader\usuariolistheader.cpp
+	"usuarioListHeader.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1478273301 source:c:\users\usuario\documents\estructura de datos\c++\personaclubserie\club.cpp
+	"Club.h"
+
+1478234656 source:c:\users\usuario\documents\estructura de datos\c++\personaclubserie\persona.cpp
+	"Persona.h"
+	"Serie.h"
+	"Club.h"
+
+1478273752 source:c:\users\usuario\documents\estructura de datos\c++\personaclubserie\main.cpp
+	<iostream>
+	"Serie.h"
+	"Club.h"
+	"Persona.h"
+
+1478562504 c:\users\usuario\documents\estructura de datos\c++\personaclubserie\serie.h
+	<iostream>
+
+1478562494 source:c:\users\usuario\documents\estructura de datos\c++\personaclubserie\serie.cpp
+	"Serie.h"
+
+1478273307 c:\users\usuario\documents\estructura de datos\c++\personaclubserie\club.h
+	<iostream>
+
+1478274573 c:\users\usuario\documents\estructura de datos\c++\personaclubserie\persona.h
+	<iostream>
+	"Serie.h"
+	"Club.h"
+

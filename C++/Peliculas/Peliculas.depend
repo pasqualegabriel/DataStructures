@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1479080846 source:c:\users\usuario\documents\estructura de datos\c++\peliculas\arraylist.cpp
+	"ArrayList.h"
+
+1480157264 c:\users\usuario\documents\estructura de datos\c++\peliculas\arraylist.h
+	<iostream>
+
+1481773592 source:c:\users\usuario\documents\estructura de datos\c++\peliculas\main.cpp
+	<iostream>
+	"pelicula.h"
+	"Heap.h"
+	"Map.h"
+
+1481382393 c:\users\usuario\documents\estructura de datos\c++\peliculas\pelicula.h
+	<iostream>
+	"ArrayList.h"
+
+1481382384 source:c:\users\usuario\documents\estructura de datos\c++\peliculas\pelicula.cpp
+	"pelicula.h"
+
+1481384500 source:c:\users\usuario\documents\estructura de datos\c++\peliculas\heap.cpp
+	"Heap.h"
+
+1481382603 c:\users\usuario\documents\estructura de datos\c++\peliculas\heap.h
+	<iostream>
+	"pelicula.h"
+
+1481773846 source:c:\users\usuario\documents\estructura de datos\c++\peliculas\map.cpp
+	"Map.h"
+
+1481773929 c:\users\usuario\documents\estructura de datos\c++\peliculas\map.h
+	<iostream>
+	<stdlib.h>
+	"pelicula.h"
+	"ArrayList.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1477837564 source:c:\users\usuario\documents\estructura de datos\c++\fracciones\fracciones\main.cpp
+	<iostream>
+	"Fraccion.h"
+
+1477836741 c:\users\usuario\documents\estructura de datos\c++\fracciones\fracciones\fraccion.h
+	<iostream>
+
+1478275130 source:c:\users\usuario\documents\estructura de datos\c++\fracciones\fraccion.cpp
+	<iostream>
+	"Fraccion.h"
+
+1478274732 c:\users\usuario\documents\estructura de datos\c++\fracciones\fraccion.h
+	<iostream>
+
+1477842252 source:c:\users\usuario\documents\estructura de datos\c++\fracciones\main.cpp
+	<iostream>
+	"Fraccion.h"
+

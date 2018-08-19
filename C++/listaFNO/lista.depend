@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1478346765 source:/home/alumno/Escritorio/C++/lista/main.cpp
+	<iostream>
+	"usuarioLista.h"
+
+1478343878 source:/home/alumno/Escritorio/C++/lista/lista.cpp
+	"lista.h"
+
+1478342318 /home/alumno/Escritorio/C++/lista/lista.h
+	<iostream>
+
+1478346597 source:/home/alumno/Escritorio/C++/lista/usuarioLista.cpp
+	"usuarioLista.h"
+
+1478346039 /home/alumno/Escritorio/C++/lista/usuarioLista.h
+	<iostream>
+	"lista.h"
+
+1478343878 source:e:\c++\listaf\lista.cpp
+	"lista.h"
+
+1478342318 e:\c++\listaf\lista.h
+	<iostream>
+
+1478346764 source:e:\c++\listaf\main.cpp
+	<iostream>
+	"usuarioLista.h"
+
+1478346038 e:\c++\listaf\usuariolista.h
+	<iostream>
+	"lista.h"
+
+1478346596 source:e:\c++\listaf\usuariolista.cpp
+	"usuarioLista.h"
+
+1478343878 source:c:\users\usuario\documents\estructura de datos\c++\listafno\lista.cpp
+	"lista.h"
+
+1478342318 c:\users\usuario\documents\estructura de datos\c++\listafno\lista.h
+	<iostream>
+
+1478346764 source:c:\users\usuario\documents\estructura de datos\c++\listafno\main.cpp
+	<iostream>
+	"usuarioLista.h"
+
+1478346038 c:\users\usuario\documents\estructura de datos\c++\listafno\usuariolista.h
+	<iostream>
+	"lista.h"
+
+1478346596 source:c:\users\usuario\documents\estructura de datos\c++\listafno\usuariolista.cpp
+	"usuarioLista.h"
+

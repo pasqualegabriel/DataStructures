@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480081782 source:c:\users\usuario\documents\estructura de datos\c++\heap\main.cpp
+	<iostream>
+	"Heap.h"
+
+1480080187 c:\users\usuario\documents\estructura de datos\c++\heap\heap.h
+	<iostream>
+
+1480091572 source:c:\users\usuario\documents\estructura de datos\c++\heap\heap.cpp
+	"Heap.h"
+

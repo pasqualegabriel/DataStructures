@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1478578613 source:c:\users\usuario\documents\estructura de datos\c++\set\main.cpp
+	<iostream>
+	"Set.h"
+
+1478576139 c:\users\usuario\documents\estructura de datos\c++\set\set.h
+	<iostream>
+
+1478578745 source:c:\users\usuario\documents\estructura de datos\c++\set\set.cpp
+	"Set.h"
+
+1478578614 source:c:\users\usuario\documents\estructura de datos\c++\setg\main.cpp
+	<iostream>
+	"Set.h"
+
+1478576140 c:\users\usuario\documents\estructura de datos\c++\setg\set.h
+	<iostream>
+
+1478578746 source:c:\users\usuario\documents\estructura de datos\c++\setg\set.cpp
+	"Set.h"
+

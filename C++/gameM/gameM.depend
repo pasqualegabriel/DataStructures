@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482083036 source:c:\users\usuario\documents\estructura de datos\c++\gamem\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+

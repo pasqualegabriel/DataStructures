@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1478987335 source:c:\users\usuario\documents\estructura de datos\c++\stack\listheader.cpp
+	"listHeader.h"
+
+1478987288 c:\users\usuario\documents\estructura de datos\c++\stack\listheader.h
+	<iostream>
+
+1479006882 source:c:\users\usuario\documents\estructura de datos\c++\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1479006585 source:c:\users\usuario\documents\estructura de datos\c++\stack\stack.cpp
+	"stack.h"
+
+1479006564 c:\users\usuario\documents\estructura de datos\c++\stack\stack.h
+	<iostream>
+
